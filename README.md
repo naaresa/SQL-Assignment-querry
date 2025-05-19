@@ -1,4 +1,4 @@
-#  Wave SQL Analysis Project
+#  Wave Transaction SQL & Python Analysis Project
 
 This project contains a series of SQL queries developed to analyze user behavior, transaction volume, and agent activity within a digital financial services platform similar to Wave.
 
@@ -35,7 +35,7 @@ This repo answers 10 analytical SQL questions, such as:
 - Transfer volumes segmented by currency, country, and kind
 - High-volume senders
 
-Refer to [`Wave transaction SQL query.sql`](Wave_SQL_Visualizations.ipynb) for the detailed logic.
+Refer to [`Wave transaction python notebook`](Wave_SQL_Visualizations.ipynb) for the detailed logic.
 
 ---
 
