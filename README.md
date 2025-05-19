@@ -35,7 +35,7 @@ This repo answers 10 analytical SQL questions, such as:
 - Transfer volumes segmented by currency, country, and kind
 - High-volume senders
 
-Refer to [`SQL Assignment query.sql`](./SQL%20Assignment%20querry.sql) for the detailed logic.
+Refer to [`Wave transaction SQL query.sql`](./SQL%20Assignment%20querry.sql) for the detailed logic.
 
 ---
 
