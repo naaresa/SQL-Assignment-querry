@@ -62,5 +62,5 @@ Refer to [Wave transaction python notebook](Wave%20Transaction%20notebook.ipynb)
 
 ## Contributions
 
-Feel free to fork, simulate your own dataset, and extend the queries!
+Feel free to simulate your own dataset, and extend the queries!
 
