@@ -64,3 +64,6 @@ Refer to [Wave transaction python notebook](Wave%20Transaction%20notebook.ipynb)
 
 Feel free to simulate your own dataset, and extend the queries!
 
+## Author
+- Theresa Gyamfi Allotey
+
