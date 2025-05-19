@@ -36,8 +36,10 @@ This repo answers 10 analytical SQL questions, such as:
 - High-volume senders
 
 ## Wave Transaction Visualizations
+
 The data for these visualizations is generated using the SQL queries in [Wave transaction SQL query](Wave%20transaction%20SQL%20query.sql).
 Refer to [Wave transaction python notebook](Wave%20Transaction%20notebook.ipynb) for the visualization logic.
+
 ---
 
 ##  How to Run
