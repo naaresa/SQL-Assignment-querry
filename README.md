@@ -35,7 +35,7 @@ This repo answers 10 analytical SQL questions, such as:
 - Transfer volumes segmented by currency, country, and kind
 - High-volume senders
 
-Refer to [`Wave transaction python notebook`](Wave_SQL_Visualizations.ipynb) for the detailed logic.
+Refer to [`Wave transaction python notebook`](Wave_SQL_Visualizations.ipynb) [`Wave transaction SQL query`]and (Wave transaction SQL query.sql)for the detailed logic.
 
 ---
 
